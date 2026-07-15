@@ -14,6 +14,12 @@ const Projects = () => {
       date: '07/2024 - 08/2024',
       description: 'Developed a tool to securely embed and extract hidden data within digital images using steganographic techniques. The project ensures confidentiality by concealing text or files within image pixels without visibly altering the image quality.',
       tags: ['Java', 'Algorithms', 'Steganography']
+    },
+    {
+      title: 'Online Pizza Ordering System',
+      date: '01/2025 - Present',
+      description: 'A full-stack React application for a pizza restaurant. Features include a dynamic menu, shopping cart functionality, user authentication, and order tracking. Built with modern UI aesthetics like glassmorphism and smooth animations.',
+      tags: ['React', 'CSS', 'State Management', 'UI/UX']
     }
   ];
 
